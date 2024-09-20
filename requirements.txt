@@ -1,0 +1,4 @@
+langchain l
+angchain_text_splitters 
+chromadb 
+ollama
